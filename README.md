@@ -1,54 +1,72 @@
-AI Story Generator with Image
+📖 AI Story Generator with Image
+🚀 Project Objective
 
+The AI Story Generator with Image is an application that takes a story idea (prompt) from the user and automatically creates a multi-part narrative with illustrations.
+It blends Natural Language Generation (NLG) and Text-to-Image Synthesis to deliver an engaging, illustrated storytelling experience.
 
-#Project Objective
+This tool is designed for:
 
+✨ Creatives & Writers
+👩‍🏫 Educators
+🎮 Game Designers
+📚 Story Enthusiasts
 
-The objective of this project is to create an AI-powered application that takes a story idea (short prompt or concept) as input and produces a cohesive narrative along with supporting images for each part of the story. This tool blends natural language generation (NLG) and text-to-image synthesis to deliver an engaging, illustrated storytelling experience. It’s designed for creatives, writers, educators, or anyone who wants to visualize a story from just an idea.
+⚡ Functional Requirements & Core Features
+📝 User Input
 
-Functional Requirements & Core Features
+Provide a story idea (short prompt or concept).
 
-User Input: Story Idea
+Choose additional settings:
 
-A single-sentence or short-paragraph input from the user, e.g., "A young girl finds a secret door in her grandmother's attic."
-Optionally, allow selecting:
-Genre (e.g., fantasy, sci-fi, mystery, comedy)
-Tone (e.g., dark, lighthearted, epic)
-Target audience (kids, teens, adults)
-Narrative Generation
+Genre (Fantasy, Sci-Fi, Mystery, Horror, Romance, etc.)
 
-The system should expand the idea into a multi-part narrative, typically:
+Tone (Epic, Funny, Serious, Dark, Inspiring)
+
+Target Audience (Kids, Teens, Adults)
+
+📜 Narrative Generation
+
+Expands the idea into a multi-part narrative (3–5 scenes).
+
+Story follows structure:
+
 Introduction / Setting
+
 Conflict / Rising Action
+
 Climax
+
 Resolution
-Can be structured into 3–5 story segments or "scenes."
-Text should be coherent, stylistically consistent, and tailored to the genre/tone.
-Image Generation
 
-For each scene or paragraph of the story, generate an illustrative image using a text-to-image model.
-The image prompt can be auto-extracted or generated from the scene’s text.
-Output Format
+Text is coherent, stylistically consistent, and matches chosen genre/tone.
 
-Display the story scene by scene or page by page, each with:
+🎨 Image Generation
+
+For each scene, generate an illustrative image using a Text-to-Image model.
+
+Image prompts are automatically extracted from scene text.
+
+📂 Output Format
+
+Story is displayed scene by scene, each with:
+
 A block of narrative text
-A corresponding generated image
-Setup and Running
 
+A corresponding AI-generated image
 
+🛠️ Setup and Running
 
-To set up and run this project, follow these steps:
+🔧 Installation
+# Clone the repository
+git clone https://github.com/your-username/AI-Story-Generator.git
+cd AI-Story-Generator
 
-Clone the repository:
-cd AI-Story-Generator-Hackathon
+# Install dependencies
+pip install -r requirements.txt
 
- pip install -r requirements.txt
+▶️ Running the Application
+streamlit run guvi.py
 
-   streamlit run guvi.py
+🌐 Live Demo
 
-
-
-
-   live application link 
-   
-   https://ai-story-generator-hackathon-ng4u7nxdi8eq3qxauv5kby.streamlit.app/
+👉 https://ai-story-generator-hackathon-ng4u7nxdi8eq3qxauv5kby.streamlit.app/
