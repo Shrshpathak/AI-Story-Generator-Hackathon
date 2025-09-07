@@ -34,7 +34,10 @@ Display the story scene by scene or page by page, each with:
 A block of narrative text
 A corresponding generated image
 Setup and Running
-To set up and run this project, follow these steps:
+
+
+
+#To set up and run this project, follow these steps:
 
 Clone the repository:
 cd AI-Story-Generator-Hackathon
