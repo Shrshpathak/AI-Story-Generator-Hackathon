@@ -1,7 +1,7 @@
 AI Story Generator with Image
 
 
-Project Objective
+#Project Objective
 
 
 The objective of this project is to create an AI-powered application that takes a story idea (short prompt or concept) as input and produces a cohesive narrative along with supporting images for each part of the story. This tool blends natural language generation (NLG) and text-to-image synthesis to deliver an engaging, illustrated storytelling experience. It’s designed for creatives, writers, educators, or anyone who wants to visualize a story from just an idea.
