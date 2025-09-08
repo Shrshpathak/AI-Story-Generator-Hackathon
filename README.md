@@ -10,8 +10,9 @@ This tool is designed for:
 - 🎮 Game Designers  
 - 📚 Story Enthusiasts
 
-##Instruction
-  Use with GPU for faster generation
+###Instruction:
+  - Use with GPU for faster generation
+  - made using google collab
 
 ---
 
