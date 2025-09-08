@@ -63,3 +63,5 @@ streamlit run guvi.py
 
 👉https://ai-story-generator-hackathon-7weagfkxfvzulzuqgfydcs.streamlit.app/
 👉https://be01e5763205.ngrok-free.app/
+👉https://huggingface.co/spaces/Shreyash0723/ai
+
