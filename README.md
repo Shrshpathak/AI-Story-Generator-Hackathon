@@ -61,4 +61,5 @@ streamlit run guvi.py
 
 🌐 Live Demo
 
-👉 https://ai-story-generator-hackathon-ng4u7nxdi8eq3qxauv5kby.streamlit.app/
+👉https://ai-story-generator-hackathon-7weagfkxfvzulzuqgfydcs.streamlit.app/
+👉https://be01e5763205.ngrok-free.app/
