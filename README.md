@@ -8,7 +8,10 @@ This tool is designed for:
 - ✨ Creatives & Writers  
 - 👩‍🏫 Educators  
 - 🎮 Game Designers  
-- 📚 Story Enthusiasts  
+- 📚 Story Enthusiasts
+
+##Instruction
+  Use with GPU for faster generation
 
 ---
 
