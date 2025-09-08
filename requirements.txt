@@ -1,7 +1,9 @@
 streamlit
+torch
 transformers
 diffusers
 accelerate
-torch
+safetensors
+requests
 Pillow
-pyngrok
+reportlab
